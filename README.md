@@ -3,7 +3,7 @@ Callisto or Aio Energy
 
 
 ## comamnd 
-git init
-git add .
-git commit -m "Initial commit"
-git push origin main
+1. **git init**
+2. **git add .**
+3. **git commit -m "Initial commit"**
+4. **git push origin main**
